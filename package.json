@@ -48,7 +48,7 @@
   "dependencies": {
     "bufferedstream": "1.6.0",
     "form-data": "0.2.0",
-    "messy": "4.4.0",
+    "messy": "5.0.0",
     "underscore": "1.6.0"
   }
 }
